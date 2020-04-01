@@ -4,5 +4,3 @@ def fact(n):
     else:
         return n*fact(n-1)
  
-def square(x):
-    return x*x
